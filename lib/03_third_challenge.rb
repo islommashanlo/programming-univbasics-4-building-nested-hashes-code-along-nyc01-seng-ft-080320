@@ -36,7 +36,7 @@ def third_challenge
         name: "Lady Capulet",
         age: "51"
       },
-      hero: {
+      heroine: {
         name: "Juliet",
         age: "15",
         status: "alive"
